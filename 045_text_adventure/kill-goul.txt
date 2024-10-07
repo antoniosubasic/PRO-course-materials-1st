@@ -1,0 +1,6 @@
+antonio
+east
+north
+east
+fight
+south

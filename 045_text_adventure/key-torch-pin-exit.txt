@@ -1,0 +1,20 @@
+antonio
+south
+west
+door 2
+north
+east
+north
+east
+fight
+north
+east
+south
+south
+west
+west
+west
+north
+north
+enter pin
+9289

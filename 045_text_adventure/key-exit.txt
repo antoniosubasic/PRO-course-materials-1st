@@ -1,0 +1,12 @@
+antonio
+south
+west
+door 2
+north
+east
+north
+east
+fight
+north
+east
+north
